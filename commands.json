@@ -2,6 +2,7 @@
   "commands": [
     "Clear D4",
     "Clear F2",
-    "Clear F7"
+    "Clear F7",
+    "Flag E2"
   ]
 }
